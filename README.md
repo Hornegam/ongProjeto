@@ -6,7 +6,8 @@
 * `Senha:` _vazio_
 
 ## **Layout e Design**
-* ![Github](ongTemplate/Parte 1/Website-ONG.jpg)
+![Layout](./ongTemplate/Parte 1/Website-ONG.jpg)
+Format: ![Alt Text](url)
 * `link:` [googleDrive](https://drive.google.com/drive/folders/1Ga9hyalTXIsaSE77c_RkpIztRBx0u3-N)
 
 ## **Wordpress**
