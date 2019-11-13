@@ -10,3 +10,5 @@
 
 ## **Wordpress**
 * **colocar a pasta do projeto destro de uma pasta com nome 'ong'**
+* `usuario:` _JacareMaster_
+* `senha:` _jacare@360_
