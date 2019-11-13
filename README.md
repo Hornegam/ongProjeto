@@ -1,2 +1,6 @@
 # ongProjeto
-1.criar um site no github
+
+**Banco de dados**
+*banco:* `ongSoPorElas`
+*usuario:* root
+*senha:* nula
