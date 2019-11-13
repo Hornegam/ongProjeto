@@ -2,7 +2,7 @@
 
 ## **Banco de dados**
 * `Banco:`  _ongSoPorElas_
-* `Usuario:*` _root_
+* `Usuario:` _root_
 * `Senha:` _vazio_
 
 ## **Layout e Design**
