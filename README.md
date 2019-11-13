@@ -1,6 +1,6 @@
 # ongProjeto
 
 **Banco de dados**
-* *banco:* `ongSoPorElas` 1
-* *usuario:* root 2
-* *senha:* nula 3
+* *Banco:* ``ongSoPorElas``
+* *Usuario:* `root`
+* *Senha:* `vazio`
