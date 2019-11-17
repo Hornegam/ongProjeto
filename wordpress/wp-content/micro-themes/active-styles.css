@@ -1,0 +1,27 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> Main header bar **/
+.main-header-bar {
+	color: rgba(0, 0, 0, 0.1) !important;
+}
+
+/** General >> Page div **/
+.page div {
+	background-image: url("/wp-content/uploads/2019/11/people-2602862_19203.jpg") !important;
+	background-position: left top !important;
+	background-repeat: no-repeat !important;
+	background-attachment: fixed !important;
+	background-size: cover !important;
+	background-origin: padding-box !important;
+	background-clip: border-box !important;
+}
+
+/** General >> Content **/
+#content {
+	background-image: url("/wp-content/uploads/2019/11/people-2602862_19203.jpg") !important;
+	background-size: cover !important;
+}
+
