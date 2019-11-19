@@ -3,25 +3,24 @@
 
 /*= General =================== */
 
-/** General >> Main header bar **/
-.main-header-bar {
-	color: rgba(0, 0, 0, 0.1) !important;
-}
-
 /** General >> Page div **/
-.page div {
-	background-image: url("/wp-content/uploads/2019/11/people-2602862_19203.jpg") !important;
-	background-position: left top !important;
-	background-repeat: no-repeat !important;
-	background-attachment: fixed !important;
-	background-size: cover !important;
-	background-origin: padding-box !important;
-	background-clip: border-box !important;
+#page div {
+	background: rgba(252, 248, 248, 0) center no-repeat / cover padding-box !important;
 }
 
-/** General >> Content **/
-#content {
-	background-image: url("/wp-content/uploads/2019/11/people-2602862_19203.jpg") !important;
-	background-size: cover !important;
+/** General >> Menu item link **/
+.menu-item a:hover:hover {
+	border-bottom: 1px solid #ffffff !important;
+}
+
+/** General >> Ast button **/
+.ast-button {
+	background-color: rgba(0,0,0,0) !important;
+	border: 2px solid white !important;
+}
+.ast-button:hover {
+	/* MT [ sub: 1 ] */
+	border: solid 2px white !important;
+	background-color: rgba(255,255,255,1) !important;
 }
 
