@@ -3,11 +3,6 @@
 
 /*= General =================== */
 
-/** General >> Page div **/
-#page div {
-	background: rgba(252, 248, 248, 0) center no-repeat / cover padding-box !important;
-}
-
 /** General >> Menu item link **/
 .menu-item a:hover:hover {
 	border-bottom: 1px solid #ffffff !important;
